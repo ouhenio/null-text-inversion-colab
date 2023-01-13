@@ -1,4 +1,4 @@
-# Null-Txt Inversion Colab Notebook
+# Null-Text Inversion Colab Notebook
 
 This repo stores a working version of Google's [null-text inversion](https://github.com/google/prompt-to-prompt) paper.
 
