@@ -6,4 +6,4 @@ The example here only showcases the local edition (`Replacement`) feature. I pla
 
 All credits go to the authors of the paper and Google.
 
-Feel free to copy my code and ask for questions! :blush:
+Feel free to copy my code and ask any questions! :blush:
